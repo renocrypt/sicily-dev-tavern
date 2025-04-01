@@ -8,12 +8,13 @@ This folder contains character definitions and resources for setting up a Python
 
 ### Individual Character Files
 
-- **project_manager.md** - Character definition for the Project Manager
-- **engineer_a.md** - Character definition for the Chief Development Engineer (A)
-- **engineer_b.md** - Character definition for the Senior Development Engineer (B)
-- **engineer_c.md** - Character definition for the Innovative Development Engineer (C)
-- **engineer_d.md** - Character definition for the Executive Development Engineer (D)
-- **test_engineer.md** - Character definition for the Test Engineer
+- **product_manager.md** - Character definition for the Product Manager 🎯
+- **project_manager.md** - Character definition for the Project Manager 📊
+- **engineer_a.md** - Character definition for the Chief Development Engineer (A) 🏗️
+- **engineer_b.md** - Character definition for the Senior Development Engineer (B) 🛡️
+- **engineer_c.md** - Character definition for the Innovative Development Engineer (C) 💡
+- **engineer_d.md** - Character definition for the Executive Development Engineer (D) 💻
+- **test_engineer.md** - Character definition for the Test Engineer 🔍
 
 ### Team Implementation
 
@@ -41,12 +42,25 @@ You can implement this development team in Silly Tavern in two ways:
    - Use commands to control which team member speaks
    - Simpler to set up but may have less distinct character personalities
 
+## Team Structure
+
+This Python development team follows standard software industry roles:
+
+- **Product Manager 🎯**: Defines what to build and for whom, focusing on user needs and business value
+- **Project Manager 📊**: Ensures how and when the product gets built, focusing on execution and delivery
+- **Chief Engineer (A) 🏗️**: Provides technical leadership and architectural direction
+- **Senior Engineer (B) 🛡️**: Ensures code stability and quality through experience
+- **Innovative Engineer (C) 💡**: Contributes creative, cutting-edge solutions
+- **Executive Engineer (D) 💻**: Implements the actual code based on team input
+- **Test Engineer 🔍**: Validates quality and identifies potential issues
+
 ## Character Design Principles
 
 These character files follow best practices for Silly Tavern characters:
 
 - Clear, focused character descriptions
 - Distinct personalities and speech patterns
+- Visual emoji identifiers for easier recognition
 - Separated role responsibilities
 - Command system for controlling interactions
 - Scenario context that establishes relationships
@@ -59,4 +73,4 @@ See `silly_tavern_setup.md` for detailed instructions on setting up these charac
 
 ## Credits
 
-This Python Development Team simulation is based on the concept described in the original prompt template, translated and optimized for use in Silly Tavern. The character definitions have been enhanced with detailed personalities, backgrounds, and interaction patterns specifically designed for LLM-based role-playing in Silly Tavern. 
+This Python Development Team simulation is based on the concept described in the original prompt template, translated and optimized for use in Silly Tavern. The character definitions have been enhanced with detailed personalities, backgrounds, interaction patterns, and visual identifiers specifically designed for LLM-based role-playing in Silly Tavern. 
